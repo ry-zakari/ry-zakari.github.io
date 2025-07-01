@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD. Student</a>Universiti Brunei Darussalam.
+subtitle: <a href='#'>PhD. Student, </a>Universiti Brunei Darussalam.
 
 profile:
   align: right
