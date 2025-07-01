@@ -27,7 +27,7 @@ latest_posts:
   limit: 2 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `photo.jpg` and put it in the `img/` folder.
+I am a Geospatial Data Scientist and Remote Sensing Analyst with a Ph.D. in Data Science from the  [School of Digital Science](https://sds.ubd.edu.bn/), [Universiti Brunei Darussalam](https://ubd.edu.bn/). You can put a picture in, too. The code is already in, just name your picture `photo.jpg` and put it in the `img/` folder.
 
 His expertise includes Geospatial datascience, remote sensing image processing and classification, image segmentation, feature extraction, geospatial data science, machine learning, deep learning-based networks, and environmental and natural hazard modeling using Earth observation data. In addition to his work in environmental data science, he has contributed to research in visual question answering, knowledge graphs, and graph neural networks.
 
