@@ -28,4 +28,4 @@ I am a Geospatial Data Scientist and Remote Sensing Analyst with a Ph.D. in Data
 
 My research interest includes areas of machine learning, deep learning-based networks, geospatial data science, remote sensing image processing and classification, image segmentation, feature extraction, ecological informatics, environmental and natural hazard modeling using Earth observation data. In addition to his work in environmental data science, he has contributed to research in visual question answering, knowledge graphs, and graph neural networks. 
 
-I’m passionate about harnessing Earth observation and AI technologies to address real-world environmental challenges, support sustainable development, and drive impactful decision-making.
+I’m passionate about harnessing Earth observation and AI technologies to address real-world environmental challenges, support sustainable development, and drive impactful decision-making. For details about my background and research, please take a look at my curriculum vitae and my [google scholar page](https://scholar.google.com/citations?hl=en&user=2m8f6TsAAAAJ).
