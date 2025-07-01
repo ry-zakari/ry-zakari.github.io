@@ -13,7 +13,7 @@ Wildfire spread prediction is critical for mitigating risks and improving manage
     ---
     # layout: page
     # title: project
-    # description: a project with a background image
+    # description: a project with a background image.
     # img: /assets/img/project1.jpg
     ---
 
