@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: An Enhanced Wildfire Spread Prediction Using Multimodal Satellite Imagery and Deep Learning Models
-img: assets/img/project1.jpg
+img: assets/img/Thum1.jpg
 importance: 1
 category: work
 related_publications: true
