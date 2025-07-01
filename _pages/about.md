@@ -24,7 +24,7 @@ latest_posts:
   limit: 2 # leave blank to include all the blog posts
 ---
 
-I am a Geospatial Data Scientist and Remote Sensing Analyst with a Ph.D. in Data Science from the  [School of Digital Science](https://sds.ubd.edu.bn/), [Universiti Brunei Darussalam](https://ubd.edu.bn/). My research focused on using satellite imagery, geospatial analytics, and deep learning techniques to model and predict environmental phenomena, particularly wildfire spread and susceptibility.
+I am a Geospatial Data Scientist and Remote Sensing Analyst with a Ph.D. in Data Science from the  [School of Digital Science](https://sds.ubd.edu.bn/), [Universiti Brunei Darussalam](https://ubd.edu.bn/), under the supervision of [UDr. Owais Ahmed Malik](https://scholar.google.com/citations?user=4rCcXLsAAAAJ&hl=en). Prior to that, I received my master’s and bachelor’s degree in Computer science and engineering from Jodhpur National University and Bayero University Kano, respectively. 
 
 My research interest includes areas of machine learning, deep learning-based networks, geospatial data science, remote sensing image processing and classification, image segmentation, feature extraction, ecological informatics, environmental and natural hazard modeling using Earth observation data. In addition to his work in environmental data science, he has contributed to research in visual question answering, knowledge graphs, and graph neural networks. 
 
