@@ -6,7 +6,7 @@ subtitle: <a href='#'>PhD. Student, </a>Universiti Brunei Darussalam.
 
 profile:
   align: right
-  image: Photo.jpg
+  image: imgs.jpg
   image_circular: false # crops the image to make it circular
 
 
