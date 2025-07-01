@@ -27,8 +27,8 @@ latest_posts:
   limit: 2 # leave blank to include all the blog posts
 ---
 
-I am a Geospatial Data Scientist and Remote Sensing Analyst with a Ph.D. in Data Science from the  [School of Digital Science](https://sds.ubd.edu.bn/), [Universiti Brunei Darussalam](https://ubd.edu.bn/). You can put a picture in, too. The code is already in, just name your picture `photo.jpg` and put it in the `img/` folder.
+I am a Geospatial Data Scientist and Remote Sensing Analyst with a Ph.D. in Data Science from the  [School of Digital Science](https://sds.ubd.edu.bn/), [Universiti Brunei Darussalam](https://ubd.edu.bn/). My research focused on using satellite imagery, geospatial analytics, and deep learning techniques to model and predict environmental phenomena, particularly wildfire spread and susceptibility.
 
-His expertise includes Geospatial datascience, remote sensing image processing and classification, image segmentation, feature extraction, geospatial data science, machine learning, deep learning-based networks, and environmental and natural hazard modeling using Earth observation data. In addition to his work in environmental data science, he has contributed to research in visual question answering, knowledge graphs, and graph neural networks.
+His expertise includes Geospatial data science, remote sensing image processing and classification, image segmentation, feature extraction, geospatial data science, machine learning, deep learning-based networks, and environmental and natural hazard modeling using Earth observation data. In addition to his work in environmental data science, he has contributed to research in visual question answering, knowledge graphs, and graph neural networks.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
