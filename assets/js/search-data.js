@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "For a complete list, please check my [google scholar page](https://scholar.google.com/citations?hl=en&amp;user=2m8f6TsAAAAJ).",
+          description: "My publications.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -444,12 +444,12 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
-          description: "a project with a background image and giscus comments",
+          description: "Mapping wildfire susceptibility in the tropical region of Brunei, a machine learning and explainable AI approach using google earth engine with remote sensing data",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+          description: "A Physics-Informed Neural Network for Next-Day Wildfire Spread Prediction Using U-net and Remote Sensing Data",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
