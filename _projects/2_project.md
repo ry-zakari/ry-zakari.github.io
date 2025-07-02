@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 2
-description: Wildfire susceptibility mapping in the tropical region of Brunei: a machine learning and explainable AI approach using google earth engine with remote sensing data.
+description: Wildfire susceptibility map in the tropical region of Brunei: a machine learning and explainable AI approach using google earth engine with remote sensing data.
 img: assets/img/NewStudyArea.png
 importance: 2
 category: work
