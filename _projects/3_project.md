@@ -2,7 +2,7 @@
 layout: page
 title: project 3 with very long name
 description: A Physics-Informed Neural Network for Next-Day Wildfire Spread Prediction Using U-net and Remote Sensing Data
-img: assets/img/PINN.png
+img: assets/img/5.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
