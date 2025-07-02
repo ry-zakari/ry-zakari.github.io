@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 3 with very long name
-description: a project that redirects to another website
+description: A Physics-Informed Neural Network for Next-Day Wildfire Spread Prediction Using U-net and Remote Sensing Data
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
