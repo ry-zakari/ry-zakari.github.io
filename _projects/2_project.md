@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 2
-description: a project with a background image and giscus comments
+description: Mapping wildfire susceptibility in the tropical region of Brunei: a machine learning and explainable AI approach using google earth engine with remote sensing data
 img: assets/img/NewStudyArea.png
 importance: 2
 category: work
