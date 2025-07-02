@@ -444,7 +444,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
-          description: "Mapping wildfire susceptibility in the tropical region of Brunei, a machine learning and explainable AI approach using google earth engine with remote sensing data",
+          description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
