@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Zakari]
-  first_name: [Rufai Yusuf]
+  last_name: [Rufai Yusuf]
+  first_name: [Zakari]
 
   style: apa
   locale: en
