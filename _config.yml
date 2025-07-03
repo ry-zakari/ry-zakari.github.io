@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: Rufai Yusuf Zakari (PhD) # the website title (if blank, full name will be used instead)
-first_name: Rufai
-middle_name: Yusuf
+first_name: Rufai Yusuf
+middle_name:
 last_name: Zakari
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -264,7 +264,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Zakari]
-  first_name: [Rufai]
+  first_name: [Rufai Yusuf]
 
   style: apa
   locale: en
