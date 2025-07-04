@@ -8,8 +8,8 @@ isbn: 9781878424310 # use ISBN to fetch cover (if no `olid` is provided, dashes 
 categories: classics crime historical-fiction mystery novels thriller
 tags: top-100
 buy_link: [https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom/dp/1878424319]
-started: 2024-08-23
-finished: 2024-09-07
+started: 2025-05-23
+finished: 2025-07-07
 released: 1997
 stars: 5
 goodreads_review: 6318556633
