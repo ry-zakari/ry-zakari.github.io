@@ -7,7 +7,7 @@ olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provide
 isbn: 9781878424310 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: classics crime historical-fiction mystery novels thriller
 tags: top-100
-buy_link: [https://www.amazon.com/Godfather-Deluxe-Mario-Puzo/dp/0593542592](https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom/dp/1878424319)
+buy_link: [https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom/dp/1878424319]
 started: 2024-08-23
 finished: 2024-09-07
 released: 1997
