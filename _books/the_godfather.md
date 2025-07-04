@@ -3,9 +3,7 @@ layout: book-review
 title: The Four Agreements
 author: Don Miguel Ruiz
 cover: assets/img/book_covers/4Ag.jpg
-olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9781878424310 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: classics crime historical-fiction mystery novels thriller
 tags: top-100
 buy_link: [https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom/dp/1878424319]
 started: 2025-05-23
