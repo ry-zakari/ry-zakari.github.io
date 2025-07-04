@@ -492,6 +492,20 @@ ninja.data = [{
           window.open("https://github.com/ry-zakari", "_blank");
         },
       },{
+        id: 'social-ieee',
+        title: 'IEEE Xplore',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://ieeexplore.ieee.org/author//", "_blank");
+        },
+      },{
+        id: 'social-kaggle',
+        title: 'Kaggle',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.kaggle.com/", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -506,6 +520,13 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0002-4645-6412", "_blank");
         },
       },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile//", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -518,6 +539,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://wa.me/6737454243", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/", "_blank");
         },
       },{
       id: 'light-theme',
