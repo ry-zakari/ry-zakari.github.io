@@ -58,15 +58,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-excited-to-announce-a-call-for-book-chapters",
+            },{id: "post-",
         
-          title: "Excited to Announce a Call for Book Chapters!",
+          title: "",
         
-        description: "Smart Technologies for Sustainable Agriculture, Integrating Ecological Practices with Computational Intelligence”, to be published by CRC Press (Taylor &amp; Francis Group).",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2025/2025-03-26-plotly/";
           
         },
       },{id: "post-a-post-with-image-galleries",
