@@ -58,11 +58,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-excited-to-announce-a-call-for-book-chapters",
         
-          title: "a post with plotly.js",
+          title: "Excited to Announce a Call for Book Chapters!",
         
-        description: "this is what included plotly.js code could look like",
+        description: "Smart Technologies for Sustainable Agriculture, Integrating Ecological Practices with Computational Intelligence”, to be published by CRC Press (Taylor &amp; Francis Group).",
         section: "Posts",
         handler: () => {
           
