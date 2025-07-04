@@ -6,8 +6,8 @@ nav: false
 collection: books
 ---
 
-> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic.
+> This book is more than a self help guide it’s a gentle call to return to the truth of who we are. Rooted in ancient Toltec wisdom, The Four Agreements challenges us to break the limiting beliefs we’ve unconsciously inherited. With striking simplicity, Ruiz offers four principles be impeccable with your word, don’t take things personally, don’t make assumptions, and always do your best, that serve as powerful tools for personal transformation. Each page feels like a mirror, inviting reflection and release. A permanent spot on my shelf, and in my mindset
 >
-> -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
+> -- A guide to personal freedom. Simple, yet profoundly transformative.” — The Four Agreements by Don Miguel Ruiz
 
 ## Books that I am reading, have read, or will read
