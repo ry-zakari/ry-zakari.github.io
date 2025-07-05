@@ -44,17 +44,26 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
- "education": [
-    {
-      "institution": "Universiti Brunei Darussalam",
-      "location": "Brunei Darussalam",
-      "url": "https://ubd.edu.bn/",
-      "area": "Data Science",
-      "studyType": "PhD",
-      "startDate": "2022-12-01",
-      "endDate": "2025-12-30",
-    }
-  ],
+"education": [
+  {
+    "institution": "Universiti Brunei Darussalam",
+    "location": "Brunei Darussalam",
+    "url": "https://ubd.edu.bn/",
+    "area": "Data Science",
+    "studyType": "PhD",
+    "startDate": "2022-12-01",
+    "endDate": "2025-12-30"
+  },
+  {
+    "institution": "Ahmadu Bello University",
+    "location": "Zaria, Nigeria",
+    "url": "https://www.abu.edu.ng/",
+    "area": "Computer Science",
+    "studyType": "Bachelor's",
+    "startDate": "2013-10-01",
+    "endDate": "2017-09-30"
+  }
+],
   "awards": [
     {
       "title": "Nobel Prize in Physics",
