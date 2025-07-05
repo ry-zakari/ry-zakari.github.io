@@ -22,14 +22,15 @@
       }
     ]
   },
-   "work": [
+ "work": [
     {
-      "name": "Universiti Brunei Darussalam",
-      "position": "Graduate Teaching Assistance",
-      "url": "https://ubd.edu.bn/",
-      "startDate": "2022-12-01",
-      "endDate": "2025-12-30",
-      "summary": "Planning teaching, including lectures, seminars/tutorials and learning materials.Supervising undergraduate research assistants or other personnel on research-related tasks",
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
@@ -41,29 +42,25 @@
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": [
+        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
+        "Men of the year 2014 by Time magazine"
+      ]
     }
   ],
-"education": [
-  {
-    "institution": "Universiti Brunei Darussalam",
-    "location": "Brunei Darussalam",
-    "url": "https://ubd.edu.bn/",
-    "area": "Data Science",
-    "studyType": "PhD",
-    "startDate": "2022-12-01",
-    "endDate": "2025-12-30"
-  },
-  {
-    "institution": "Ahmadu Bello University",
-    "location": "Zaria, Nigeria",
-    "url": "https://www.abu.edu.ng/",
-    "area": "Computer Science",
-    "studyType": "Bachelor's",
-    "startDate": "2013-10-01",
-    "endDate": "2017-09-30"
-  }
-],
+  "education": [
+    {
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    }
+  ],
   "awards": [
     {
       "title": "Nobel Prize in Physics",
