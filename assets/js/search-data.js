@@ -146,17 +146,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/code-diff/";
           
         },
-      },{id: "post-a-post-with-advanced-image-components",
-        
-          title: "a post with advanced image components",
-        
-        description: "this is what advanced image components could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/advanced-images/";
-          
-        },
       },{id: "post-a-post-with-vega-lite",
         
           title: "a post with vega lite",
@@ -300,17 +289,6 @@ ninja.data = [{
             window.location.href = "/blog/2023/table-of-contents/";
           
         },
-      },{id: "post-a-post-with-giscus-comments",
-        
-          title: "a post with giscus comments",
-        
-        description: "an example of a blog post with giscus comments",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2022/giscus-comments/";
-          
-        },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
         
           title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -364,17 +342,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2020/twitter/";
-          
-        },
-      },{id: "post-a-post-with-disqus-comments",
-        
-          title: "a post with disqus comments",
-        
-        description: "an example of a blog post with disqus comments",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/disqus-comments/";
           
         },
       },{id: "post-a-post-with-math",
@@ -461,11 +428,6 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
             },},{
         id: 'social-email',
         title: 'email',
