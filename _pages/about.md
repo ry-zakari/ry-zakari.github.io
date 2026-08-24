@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Research Fellow, </a>Universiti Brunei Darussalam.
+subtitle: <a href='#'>Lecturer I, </a>Skyline University Nigeria, Kano, Nigeria.
 
 profile:
   align: right
